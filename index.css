@@ -49,3 +49,38 @@ body {
     margin-top: 0;
     padding-bottom: 150px;
 }
+
+
+
+
+/* main-section-1 */
+.see{
+    font-size: 42px;
+    font-weight: 800;
+    color: #252432;
+    margin: 0;
+}
+.explore{
+    font-size: 24px;
+    color: #252432;
+}
+.launch{
+    color: #ffffff;
+    font-size: 13px;
+    font-weight: 700;
+    background-color: rgba(78, 71, 255, 1);
+    padding: 7px 20px;
+    border: none;
+    border-radius: 5px;
+}
+.mini{
+    width: 403px;
+    height: 328px;
+    border-radius: 40px;
+}
+.section-1{
+    display: flex;
+    justify-content: space-between;
+    margin: 150px 150px;
+    align-items: center;
+}

@@ -118,3 +118,97 @@ body {
     padding-top: 70px;
     border-radius: 20px;
 }
+
+
+
+/* main-section-3 */
+.say{
+    font-size: 42px;
+    font-weight: 700;
+    color: #252432;
+}
+.fa-solid{
+    color: #FFB805;
+    
+}
+.loved{
+    color: #252432;
+    margin-bottom: 0;
+    
+}
+.template{
+    font-size: 13px;
+    color: #252432;
+}
+.reviewer{
+    color: #252432;
+    margin: 0;
+    padding-bottom: 7px;
+}
+.text-controller-4{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+.date-2{
+    font-size: 12px;
+    color: #252432;
+    margin: 0;
+}
+.section-3{
+    text-align: center;
+    width: 1140px;
+    height: 342px;
+    margin: 0 auto;
+}
+.text-controlller-3{
+    display: flex;
+    justify-content: space-around;
+}
+.text-controller-5{
+    text-align: left;
+    background-color: #ffffff;
+    box-shadow: 2px 2px 4px antiquewhite;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+
+
+/* main section 4 */
+.section-4{
+    width: 1140px;
+    height: 695px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+}
+.ready{
+    font-size: 50px;
+    font-weight: 700;
+    color: #000000;
+    margin-bottom: 0;
+}
+.instantly{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 22px;
+    
+}
+.big{
+    width: 840px;
+    height: 365px;
+    border-radius: 30px;
+}
+.text-controller-6{
+    text-align: center;
+    padding: 50px 0;
+}
+.free{
+    margin-bottom: 20px;
+}
+
+
+
+body button:hover{
+    background-color: brown;
+    padding: 12px 20px;
+}

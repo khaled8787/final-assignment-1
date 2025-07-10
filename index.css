@@ -84,3 +84,37 @@ body {
     margin: 150px 150px;
     align-items: center;
 }
+
+
+
+/* main-section-2 */
+.joined{
+    font-size: 38px;
+    font-weight: 700;
+    color: #252432;
+}
+.fifty{
+    font-size: 80px;
+    font-weight: 700;
+    color: rgba(78, 71, 255, 1);
+    margin: 0;
+}
+.active{
+    font-size: 20px;
+    color: #252432;
+   
+}
+.text-controller-2{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.section-2{
+    text-align: center;
+    width: 1140px;
+    height: 306px;
+    margin: 0 auto;
+    background-color: antiquewhite;
+    padding-top: 70px;
+    border-radius: 20px;
+}

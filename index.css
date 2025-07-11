@@ -263,6 +263,12 @@ body button:hover{
     height: 428px;
     background-color: beige;
     margin-top: 0;
+
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+
 }
 .logo-2{
     font-size: 100px;

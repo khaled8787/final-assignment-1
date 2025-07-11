@@ -212,3 +212,48 @@ body button:hover{
     background-color: brown;
     padding: 12px 20px;
 }
+
+
+
+
+/* main section 5 */
+.section-5{
+    width: 1140px;
+    height: 632px;
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 200px;
+}
+.touch{
+    font-size: 97px;
+    font-weight: 700;
+    color: #000000;
+}
+.label{
+    font-size: 15px;
+    font-weight: 600;
+    color: #000000;
+   
+}
+.input{
+    background-color: whitesmoke;
+    border: none;
+    padding: 20px 80px;
+}
+.rounded{
+    border-radius: 8px;
+}
+.last-btn{
+    padding-left: 124px;
+    padding-right: 124px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.last-btn:hover{
+    background-color: brown;
+    padding: 13px 130px 13px 130px;
+}
+.text-controller-7{
+   
+}

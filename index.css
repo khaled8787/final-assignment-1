@@ -219,11 +219,12 @@ body button:hover{
 /* main section 5 */
 .section-5{
     width: 1140px;
-    height: 632px;
+    height: 430px;
     display: flex;
     justify-content: space-between;
     margin: 0 auto;
     margin-top: 200px;
+    margin-bottom: 0;
 }
 .touch{
     font-size: 97px;
@@ -253,4 +254,36 @@ body button:hover{
 .last-btn:hover{
     background-color: brown;
     padding: 13px 130px 13px 130px;
+}
+
+
+
+/* footer section */
+.footer{
+    height: 428px;
+    background-color: beige;
+    margin-top: 0;
+}
+.logo-2{
+    font-size: 100px;
+    font-weight: bolder;
+    color: rgba(78, 71, 255, 1);
+    margin-bottom: 0;
+}
+.online{
+    font-size: 14px;
+    color: #8987A1;
+}
+.service{
+        font-size: 14px;
+    color: #8987A1;
+}
+.text-controller-9{
+    text-align: center;
+    padding: 70px 0;
+}
+.text-controller-8{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 550px;
 }
